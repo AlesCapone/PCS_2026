@@ -1,0 +1,2 @@
+sotto la dimensione 20 di un vettore insertion è più rapido di entrambi, successivamnete quick è il più veloce. 
+sort invece è migliore di merge, ma peggiore di quick ad ogni dimensione
